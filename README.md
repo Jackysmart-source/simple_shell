@@ -1,1 +1,4 @@
-simple_shell
+simple_shell Project
+
+
+Contributed by Jacqueline Okonko and Adeoye Oluwatosin
